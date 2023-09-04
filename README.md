@@ -1,5 +1,4 @@
-# metronic_v8.github.io
-Metronic V8 complete dashboards
+# Metronic V8 complete dashboards
 
 ---
 ## How to Download?
